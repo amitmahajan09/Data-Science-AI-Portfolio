@@ -1,1 +1,1 @@
-**Capstone Project - Project Walmart**
+## 📁Capstone Project - Project Walmart ##

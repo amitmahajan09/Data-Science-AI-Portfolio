@@ -75,4 +75,4 @@ cases, aiding in better preparedness and response strategies.
 
 ### References 
  Data sources: Intellipaat course 
- Libraries and tools: pandas, matplotlib, plotly, Facebook Prophet
+ #### Libraries and tools: pandas, matplotlib, plotly, Facebook Prophet

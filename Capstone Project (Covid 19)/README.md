@@ -1,6 +1,6 @@
-##Capstone Project - Project Covid19
+## Capstone Project - Project Covid19
 
-Table of Contents 
+### Table of Contents 
 1. Problem Statement 
 2. Project Objective 
 3. Data Description 
